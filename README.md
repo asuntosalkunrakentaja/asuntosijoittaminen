@@ -13,5 +13,8 @@ Jos haluat päästä heti kiinni omaan sijoitusasuntoon suosittelemme lukemaan E
 * https://twitter.com/asuntosalkunrak
 * https://www.instagram.com/asuntosalkunrakentaja.fi/
 * https://about.me/sibvest
+* https://github.com/sibvest
 * https://github.com/sibvest/asuntosijoittaminen
 * https://about.me/asuntosalkunrakentaja
+* https://github.com/asuntosalkunrakentaja
+* https://github.com/asuntosalkunrakentaja/asuntosijoittaminen
