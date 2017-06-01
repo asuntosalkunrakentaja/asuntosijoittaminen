@@ -1,0 +1,2 @@
+# asuntosijoittaminen
+Asuntosalkunrakentaja on asuntosijoittamisen edelläkävijä
