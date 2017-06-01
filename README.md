@@ -7,3 +7,10 @@ Asuntosalkunrakentaja on asuntosijoittamisen edelläkävijä. Sivustollamme julk
 ## Sijoitusasunto
 
 Jos haluat päästä heti kiinni omaan sijoitusasuntoon suosittelemme lukemaan E-kirjamme [asuntosijoittamisesta ja sijoitusasunnoista](http://asuntosalkunrakentaja.fi/lataa-e-kirja/) ja liittymään [sisäpiiriin](http://asuntosalkunrakentaja.fi/sisapiiri/).
+
+## Seuraa meitä
+
+https://twitter.com/asuntosalkunrak
+https://www.instagram.com/asuntosalkunrakentaja.fi/
+https://about.me/sibvest
+https://github.com/sibvest/asuntosijoittaminen
